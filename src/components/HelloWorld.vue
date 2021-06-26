@@ -1,7 +1,5 @@
 <template>
-  <v-container>
-    hhihihi
-  </v-container>
+  <v-container> hhihihi </v-container>
 </template>
 
 <script>
