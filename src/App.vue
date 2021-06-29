@@ -4,6 +4,7 @@
       <v-btn to="/">home</v-btn>
       <v-btn to="/about">About</v-btn>
       <v-btn to="/login">Login</v-btn>
+      <v-btn to="/Register">Register</v-btn>
     </v-app-bar>
 
     <v-main>
